@@ -16,7 +16,7 @@ console.log(randomAnimal)
 
 const localsupo = faker.location.city()
 const localsupo2 = faker.location.country()
-const  localsupo3 = faker.location.countryCode()
+const localsupo3 = faker.location.countryCode()
 const localtest = faker.location.latitude()
 
 
